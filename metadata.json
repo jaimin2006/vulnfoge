@@ -1,0 +1,6 @@
+{
+  "name": "VulnForge - Vulnerability Disclosure & Bug Bounty Studio",
+  "description": "Professional vulnerability research, policy-compliant reporting, CVSS/VRT severity calculator, and post-mortem analysis workspace for security researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
